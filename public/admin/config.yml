@@ -4,7 +4,8 @@ media_folder: public/img
 collections:
   - name: 'products'
     label: 'Produtos'
-    folder: 'content/products.md'
+    format: json
+    file: 'content/products.md'
     create: true
     fields:
       - { label: 'Nome', name: 'name', widget: 'string' }
