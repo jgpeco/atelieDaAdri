@@ -1,0 +1,14 @@
+backend:
+  name: test-repo
+media_folder: public/img
+collections:
+  - name: 'products'
+    label: 'Produtos'
+    folder: 'content/products.md'
+    media_folder: 'public/img'
+    fields:
+      - { label: 'Nome', name: 'name', widget: 'string' }
+      - { label: 'Imagem', name: 'url', widget: 'string' }
+      - { label: 'Valor', name: 'value', widget: 'number', valueType: 'float' }
+      - { label: 'Tamanho', name: 'size', widget: 'string' }
+      - { label: 'Referência', name: 'ref', widget: 'number' }
