@@ -5,7 +5,7 @@ collections:
   - name: 'products'
     label: 'Produtos'
     folder: 'content/products.md'
-    media_folder: 'public/img'
+    create: true
     fields:
       - { label: 'Nome', name: 'name', widget: 'string' }
       - { label: 'Imagem', name: 'url', widget: 'string' }
