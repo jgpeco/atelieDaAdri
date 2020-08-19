@@ -11,4 +11,9 @@ Product:
     value: 23
     size: 8cm x 8cm
     ref: 12
+  - name: Teste
+    url: Testando
+    value: 12
+    size: "9"
+    ref: 15
 ---
