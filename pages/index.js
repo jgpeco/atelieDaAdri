@@ -19,6 +19,7 @@ export default class Home extends Component {
                 <p>Ref {product.ref}</p>
                 <p>{product.size}</p>
                 <p>{product.price}</p>
+                <img src={product.url1} alt='' style='width: 200px' />
               </li>
             ))}
           </ul>

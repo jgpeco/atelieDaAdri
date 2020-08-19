@@ -14,7 +14,31 @@ collections:
             widget: list
             fields:
               - { label: 'Nome', name: 'name', widget: 'string' }
-              - { label: 'Imagem', name: 'url', widget: 'string' }
-              - { label: 'Valor', name: 'value', widget: 'number' }
+              - { label: 'Valor', name: 'price', widget: 'string' }
               - { label: 'Tamanho', name: 'size', widget: 'string' }
               - { label: 'Referência', name: 'ref', widget: 'number' }
+              - { label: 'Imagem 1', name: 'url1', widget: 'string' }
+              - {
+                  label: 'Imagem 2',
+                  name: 'url2',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Imagem 3',
+                  name: 'url3',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Imagem 4',
+                  name: 'url4',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Imagem 5',
+                  name: 'url5',
+                  widget: 'string',
+                  required: false,
+                }
