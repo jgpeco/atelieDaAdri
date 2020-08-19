@@ -10,7 +10,7 @@ collections:
         file: 'content/products.md'
         fields:
           - label: 'Produto'
-            name: 'Product'
+            name: 'product'
             widget: list
             fields:
               - { label: 'Nome', name: 'name', widget: 'string' }
