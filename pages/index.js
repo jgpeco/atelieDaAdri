@@ -1,17 +1,31 @@
 import Head from 'next/head';
-import { Component } from 'react';
-import { attributes } from '../content/products.md';
+import Navbar from '../components/Navbar';
+import Home from '../components/Home';
+import Footer from '../components/Footer';
 
-export default class Home extends Component {
-  render() {
-    let { product } = attributes;
-    console.log(product);
-    return (
-      <>
-        <Head>
-          <script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
-        </Head>
-        <article>
+function Index() {
+  return (
+    <>
+      <Head>
+        <link
+          rel='stylesheet'
+          href='https://use.fontawesome.com/releases/v5.14.0/css/all.css'
+          integrity='sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc'
+          crossOrigin='anonymous'
+        />
+        <script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
+      </Head>
+      <Navbar />
+      <Home />
+      <Footer />
+    </>
+  );
+}
+
+export default Index;
+
+{
+  /* <article>
           <ul>
             {product.map((product, k) => (
               <li key={k}>
@@ -23,9 +37,14 @@ export default class Home extends Component {
               </li>
             ))}
           </ul>
-        </article>
-        <div>hello</div>
-      </>
-    );
-  }
+        </article> 
+
+        render() {
+          let { product } = attributes;
+          console.log(product);
+
+          import { Component } from 'react';
+          import { attributes } from '../content/products.md';
+
+    */
 }
