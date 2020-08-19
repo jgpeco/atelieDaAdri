@@ -5,17 +5,16 @@ collections:
   - name: 'products-grid'
     label: 'Grade de Produtos'
     files:
-      - label: 'Produto'
-        name: 'product'
+      - label: 'Produtos'
+        name: 'products'
         file: 'content/products.md'
         fields:
-          - { label: 'Nome', name: 'name', widget: 'string' }
-          - { label: 'Imagem', name: 'url', widget: 'string' }
-          - {
-              label: 'Valor',
-              name: 'value',
-              widget: 'number',
-              valueType: 'float',
-            }
-          - { label: 'Tamanho', name: 'size', widget: 'string' }
-          - { label: 'Referência', name: 'ref', widget: 'number' }
+          - label: 'Produto'
+            name: 'Product'
+            widget: list
+            fields:
+              - { label: 'Nome', name: 'name', widget: 'string' }
+              - { label: 'Imagem', name: 'url', widget: 'string' }
+              - { label: 'Valor', name: 'value', widget: 'number' }
+              - { label: 'Tamanho', name: 'size', widget: 'string' }
+              - { label: 'Referência', name: 'ref', widget: 'number' }

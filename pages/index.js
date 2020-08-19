@@ -5,7 +5,7 @@ import { attributes } from '../content/products.md';
 export default class Home extends Component {
   render() {
     let { product } = attributes;
-    // console.log(product);
+    console.log(product);
     return (
       <>
         <Head>
