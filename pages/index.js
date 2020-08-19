@@ -4,8 +4,8 @@ import { attributes } from '../content/products.md';
 
 export default class Home extends Component {
   render() {
-    let { products } = attributes;
-    console.log(products);
+    let { product } = attributes;
+    // console.log(product);
     return (
       <>
         <Head>
@@ -13,7 +13,7 @@ export default class Home extends Component {
         </Head>
         <article>
           <ul>
-            {products.map((product, k) => (
+            {product.map((product, k) => (
               <li key={k}>
                 <h2>{product.name}</h2>
                 <p>Ref {product.ref}</p>

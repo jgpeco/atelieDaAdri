@@ -2,11 +2,11 @@ backend:
   name: git-gateway
 media_folder: public/img
 collections:
-  - name: 'products'
-    label: 'Produtos'
+  - name: 'products-grid'
+    label: 'Grade de Produtos'
     files:
       - label: 'Produto'
-        name: 'produto'
+        name: 'product'
         file: 'content/products.md'
         fields:
           - { label: 'Nome', name: 'name', widget: 'string' }
