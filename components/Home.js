@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Info from '../components/Info';
 
 const Home = () => {
   return (
@@ -72,37 +73,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section id='info'>
-        <div className='info-content container'>
-          <div className='info-header'>
-            <h2>Encomendas</h2>
-            <p>Para encomendar sua peça, conferir nossa disponibilidade.</p>
-          </div>
-
-          <div className='contact'>
-            <div className='contact-info'>
-              <i className='fab fa-whatsapp'></i> <p>42 99149-6389</p>
-            </div>
-
-            <Link href='#'>
-              <a className='contact-info'>
-                <i className='fab fa-facebook'></i>
-                <p>Página do Facebook</p>
-              </a>
-            </Link>
-
-            <Link href='https://www.instagram.com/ateliadri/'>
-              <a className='contact-info'>
-                <i className='fab fa-instagram'></i>
-                <p>Página do Instagram</p>
-              </a>
-            </Link>
-          </div>
-          <div className='info-footer'>
-            <p>* Frete a combinar.</p>
-          </div>
-        </div>
-      </section>
+      <Info isCatalog={false} />
     </div>
   );
 };

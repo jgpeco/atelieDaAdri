@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 
-const Navbar = () => {
+const Navbar = ({ isCatalog }) => {
   return (
     <nav className='nav-sm'>
       <div className='navbar container'>
@@ -23,9 +23,15 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link href='#info'>
-              <a>Encomendas</a>
-            </Link>
+            {isCatalog ? (
+              <Link href='/encomendas'>
+                <a>Encomendas</a>
+              </Link>
+            ) : (
+              <Link href='#info'>
+                <a>Encomendas</a>
+              </Link>
+            )}
           </li>
         </div>
       </div>

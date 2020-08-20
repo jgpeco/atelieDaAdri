@@ -15,7 +15,7 @@ function Index() {
         />
         <script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
       </Head>
-      <Navbar />
+      <Navbar isCatalog={false} />
       <Home />
       <Footer />
     </>
@@ -23,28 +23,3 @@ function Index() {
 }
 
 export default Index;
-
-{
-  /* <article>
-          <ul>
-            {product.map((product, k) => (
-              <li key={k}>
-                <h2>{product.name}</h2>
-                <p>Ref {product.ref}</p>
-                <p>{product.size}</p>
-                <p>{product.price}</p>
-                <img src={product.url1} alt='' style={{ width: '200px' }} />
-              </li>
-            ))}
-          </ul>
-        </article> 
-
-        render() {
-          let { product } = attributes;
-          console.log(product);
-
-          import { Component } from 'react';
-          import { attributes } from '../content/products.md';
-
-    */
-}

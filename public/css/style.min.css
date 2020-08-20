@@ -152,6 +152,10 @@ nav {
   height: 60vh;
   background: #eee5fa;
 }
+#info-page {
+  height: 80vh;
+  background: #fefdfb;
+}
 .info-content h2 {
   font-size: 2rem;
   line-height: 2;
@@ -194,6 +198,9 @@ footer {
 .filter {
   margin-top: 2rem;
   margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .filter ul:before {
   content: attr(aria-label);
@@ -206,6 +213,12 @@ footer {
 }
 .filter li {
   margin-right: 1rem;
+}
+.filter .search-box input {
+  padding: 1rem 3rem;
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  font: inherit;
 }
 .products {
   margin-bottom: 4rem;
@@ -302,6 +315,9 @@ footer {
   #info {
     height: auto;
   }
+  #info-page {
+    margin-bottom: 12rem;
+  }
   .info-content h2 {
     line-height: 1.5;
   }
@@ -325,9 +341,16 @@ footer {
     text-align: center;
     margin-top: 0.3rem;
     border-bottom: 1px solid #dadada;
+    flex-direction: column;
   }
   .filter ul {
     display: block;
+  }
+  .filter .search-box {
+    margin-top: 0.65rem;
+  }
+  .filter .search-box input {
+    padding: 0.5rem 1rem;
   }
   .products {
     margin-bottom: 5rem;
