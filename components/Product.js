@@ -1,14 +1,22 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Product = ({ product }) => {
   let { name, size, price, ref, url1 } = product;
   return (
     <div className='product'>
-      <img src={url1} alt='Imagem do Produto' />
+      <Link href=''>
+        <a>
+          <img src={url1} alt='Imagem do Produto' />
+        </a>
+      </Link>
+
       <div className='product-item'>
         <div className='item-head'>
           <h3 className='item-title'>
-            <a href='#'>{name}</a>
+            <Link href='#'>
+              <a>{name}</a>
+            </Link>
           </h3>
           <small className='item-ref'>Ref. {ref}</small>
         </div>
