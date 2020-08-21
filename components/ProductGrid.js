@@ -1,28 +1,46 @@
 import { attributes } from '../content/products.md';
 import Product from '../components/Product';
 
-const ProductGrid = ({ searchValue }) => {
+const ProductGrid = ({ searchValue, filter }) => {
   let { product } = attributes;
   const productItem = [];
+  let filteredProduct = [];
 
   product.forEach((item) => {
     productItem.push(item);
   });
 
-  const searchedProduct = productItem.filter((product) =>
+  if (filter !== 'all') {
+    filteredProduct = productItem.filter((product) =>
+      product.type.toLowerCase().includes(filter.toLowerCase())
+    );
+  } else {
+    filteredProduct = productItem;
+  }
+
+  const searchedProduct = filteredProduct.filter((product) =>
     product.name.toLowerCase().includes(searchValue.toLowerCase())
   );
-
-  if (!searchedProduct.length) {
-    console.log('sem items');
-  }
 
   return (
     <section className='products container'>
       <div className='product-grid'>
-        {searchedProduct.map((product, k) => (
-          <Product key={k} product={product} />
-        ))}
+        {searchedProduct.length ? (
+          searchedProduct.map((product, k) => (
+            <Product key={k} product={product} />
+          ))
+        ) : (
+          <div>
+            <p>Não encontramos produtos com este nome =(</p>
+            <p>Favor refazer sua busca</p>
+            {filter !== 'all' ? (
+              <small>
+                <strong>Dica: </strong> tente desativar o filtro aplicado, deste
+                modo sua busca englobará todos os produtos
+              </small>
+            ) : null}
+          </div>
+        )}
       </div>
     </section>
   );

@@ -9,8 +9,6 @@ const Info = ({ isCatalog }) => {
   } else {
     info = 'info';
   }
-  console.log(isCatalog);
-  console.log(info);
 
   return (
     <>
@@ -31,19 +29,21 @@ const Info = ({ isCatalog }) => {
             </div>
 
             <div className='contact'>
-              <div className='contact-info'>
-                <i className='fab fa-whatsapp'></i> <p>42 99149-6389</p>
-              </div>
+              <Link href='https://wa.me/5542991496389'>
+                <a className='contact-info' target='_blank' rel='noopener'>
+                  <i className='fab fa-whatsapp'></i> <p>42 99149-6389</p>
+                </a>
+              </Link>
 
               <Link href='#'>
-                <a className='contact-info'>
+                <a className='contact-info' target='_blank' rel='noopener'>
                   <i className='fab fa-facebook'></i>
                   <p>Página do Facebook</p>
                 </a>
               </Link>
 
               <Link href='https://www.instagram.com/ateliadri/'>
-                <a className='contact-info'>
+                <a className='contact-info' target='_blank' rel='noopener'>
                   <i className='fab fa-instagram'></i>
                   <p>Página do Instagram</p>
                 </a>

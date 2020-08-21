@@ -14,6 +14,7 @@ collections:
             widget: list
             fields:
               - { label: 'Nome', name: 'name', widget: 'string' }
+              - { label: 'Tipo', name: 'type', widget: 'string' }
               - { label: 'Valor', name: 'price', widget: 'string' }
               - { label: 'Tamanho', name: 'size', widget: 'string' }
               - { label: 'Referência', name: 'ref', widget: 'number' }
