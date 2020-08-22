@@ -5,7 +5,7 @@ const Product = ({ product }) => {
   let { name, size, price, ref, url1 } = product;
   return (
     <div className='product'>
-      <Link href=''>
+      <Link href='/produtos/[produto]' as={`/produtos/${ref}`}>
         <a>
           <img src={url1} alt='Imagem do Produto' />
         </a>
@@ -14,7 +14,7 @@ const Product = ({ product }) => {
       <div className='product-item'>
         <div className='item-head'>
           <h3 className='item-title'>
-            <Link href='#'>
+            <Link href='/produtos/[produto]' as={`/produtos/${ref}`}>
               <a>{name}</a>
             </Link>
           </h3>
