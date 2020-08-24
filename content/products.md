@@ -1,6 +1,6 @@
 ---
 product:
-  - name: Cesto
+  - name: Cesto Branco
     type: Cestos
     size: 8x8
     price: 20,00
