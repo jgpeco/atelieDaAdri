@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import Head from 'next/head';
 import Link from 'next/link';
 import { attributes } from '../content/products.md';
 
@@ -36,14 +35,6 @@ const SingleProduct = ({ id }) => {
 
   return (
     <>
-      <Head>
-        <link
-          rel='stylesheet'
-          href='https://use.fontawesome.com/releases/v5.14.0/css/all.css'
-          integrity='sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc'
-          crossOrigin='anonymous'
-        />
-      </Head>
       <div className='single-product'>
         <div className='single-product-slider'>
           <div className='slider-thumb'>
@@ -84,21 +75,24 @@ const SingleProduct = ({ id }) => {
               <li>
                 <Link href='https://wa.me/5542991496389'>
                   <a target='_blank' rel='noopener'>
-                    <i className='fab fa-whatsapp'></i> 42 99149-6389
+                    {/* <i className='fab fa-whatsapp'></i>  */}
+                    42 99149-6389
                   </a>
                 </Link>
               </li>
               <li>
                 <Link href='https://www.facebook.com/ateliadri'>
                   <a target='_blank' rel='noopener'>
-                    <i className='fab fa-facebook'></i> Facebook
+                    {/* <i className='fab fa-facebook'></i>  */}
+                    Facebook
                   </a>
                 </Link>
               </li>
               <li>
                 <Link href='https://www.instagram.com/ateliadri/'>
                   <a target='_blank' rel='noopener'>
-                    <i className='fab fa-instagram'></i> Instagram
+                    {/* <i className='fab fa-instagram'></i> */}
+                    Instagram
                   </a>
                 </Link>
               </li>
