@@ -35,7 +35,7 @@ const Info = ({ isCatalog }) => {
                 </a>
               </Link>
 
-              <Link href='#'>
+              <Link href='https://www.facebook.com/ateliadri'>
                 <a className='contact-info' target='_blank' rel='noopener'>
                   <i className='fab fa-facebook'></i>
                   <p>Página do Facebook</p>

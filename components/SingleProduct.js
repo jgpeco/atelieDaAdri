@@ -31,13 +31,12 @@ const SingleProduct = ({ id }) => {
 
   function handleChange(e) {
     setImage(event.target.getAttribute('src'));
-    console.log(image);
   }
 
   return (
-    <div class='single-product'>
-      <div class='single-product-slider'>
-        <div class='slider-thumb'>
+    <div className='single-product'>
+      <div className='single-product-slider'>
+        <div className='slider-thumb'>
           <img src={`${url1}`} onClick={handleChange} />
           {url2 ? <img src={`${url2}`} onClick={handleChange} /> : null}
           {url3 ? <img src={`${url3}`} onClick={handleChange} /> : null}
@@ -46,28 +45,28 @@ const SingleProduct = ({ id }) => {
         </div>
       </div>
 
-      <div class='slider-image'>
+      <div className='slider-image'>
         <img id='img-full' src={`${image}`} />
       </div>
 
-      <div class='single-product-body'>
-        <div class='item-body'>
-          <h3 class='item-title'>{name}</h3>
-          <p clas='item-ref'>Ref. {ref}</p>
-          <p class='item-type'>
-            <span class='item-field'>Categoria:</span>
+      <div className='single-product-body'>
+        <div className='item-body'>
+          <h3 className='item-title'>{name}</h3>
+          <p className='item-ref'>Ref. {ref}</p>
+          <p className='item-type'>
+            <span className='item-field'>Categoria: </span>
             {type}
           </p>
           <p class='item-price'>
-            <span class='item-field'>Preço:</span> R${price}
+            <span className='item-field'>Preço:</span> R${price}
           </p>
           <p class='item-size'>
-            <span class='item-field'>Tamanho:</span> {size}
+            <span className='item-field'>Tamanho:</span> {size}
           </p>
         </div>
-        <div class='item-order'>
-          <p class='interest'>Ficou interessado? </p>
-          <p class='interest-info'>
+        <div className='item-order'>
+          <p className='interest'>Ficou interessado? </p>
+          <p className='interest-info'>
             Para realizar a compra, entre em contato conosco, passando o nome ou
             o número de referência deste produto.
           </p>
@@ -75,29 +74,29 @@ const SingleProduct = ({ id }) => {
             <li>
               <Link href='https://wa.me/5542991496389'>
                 <a target='_blank' rel='noopener'>
-                  <i class='fab fa-whatsapp'></i> 42 99149-6389
+                  <i className='fab fa-whatsapp'></i> 42 99149-6389
                 </a>
               </Link>
             </li>
             <li>
-              <Link href='#'>
+              <Link href='https://www.facebook.com/ateliadri'>
                 <a target='_blank' rel='noopener'>
-                  <i class='fab fa-facebook'></i> Facebook
+                  <i className='fab fa-facebook'></i> Facebook
                 </a>
               </Link>
             </li>
             <li>
               <Link href='https://www.instagram.com/ateliadri/'>
                 <a target='_blank' rel='noopener'>
-                  <i class='fab fa-instagram'></i> Instagram
+                  <i className='fab fa-instagram'></i> Instagram
                 </a>
               </Link>
             </li>
           </ul>
         </div>
-        <div class='back'>
+        <div className='back'>
           <Link href='/catalogo'>
-            <a class='btn'>Voltar para Catálogo</a>
+            <a className='btn'>Voltar para Catálogo</a>
           </Link>
         </div>
       </div>

@@ -31,7 +31,7 @@ const Home = () => {
                 <span>Ver Produtos</span>
               </div>
               <img
-                src='https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/card1.jpg'
+                src='https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598278809/atelieDaAdri/card1.jpg'
                 alt=''
               />
             </a>
@@ -48,7 +48,7 @@ const Home = () => {
                 <span>Ver Produtos</span>
               </div>
               <img
-                src='https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/card2.jpg'
+                src='https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598278808/atelieDaAdri/card2.jpg'
                 alt=''
               />
             </a>
@@ -65,7 +65,7 @@ const Home = () => {
                 <span>Ver Produtos</span>
               </div>
               <img
-                src='https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/card3.jpg'
+                src='https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598278809/atelieDaAdri/card3.jpg'
                 alt=''
               />
             </a>
