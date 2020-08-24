@@ -13,9 +13,20 @@
 .btn:hover {
   background: #9b94a4;
 }
-@keyframes appearsCard {
+@keyframes appears {
+  from {
+    opacity: 0;
+  }
   to {
-    display: block;
+    opacity: 1;
+  }
+}
+@keyframes slidein {
+  from {
+    margin: -30%;
+  }
+  to {
+    margin: 0;
   }
 }
 * {
@@ -91,10 +102,17 @@ nav {
   margin-bottom: 1rem;
   color: #390061;
   text-transform: uppercase;
+  animation: 1.2s appears ease-in;
 }
 .hero-text p {
   font-size: 2rem;
   margin-bottom: 2rem;
+  animation: 1s appears ease-in;
+  animation-delay: 0.1s;
+}
+.hero-text .btn-shop {
+  animation: 1.2s slidein ease;
+  animation-delay: 0.3s;
 }
 .hero-content {
   width: 100%;
