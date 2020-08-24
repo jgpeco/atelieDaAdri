@@ -2,7 +2,14 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { attributes } from '../content/products.md';
 
-const SingleProduct = ({ id }) => {
+const SingleProduct = () => {
+  //getting what product will be shown in page
+  const url = window.location.href;
+  const separator = '/';
+  const breakUrl = url.split(separator);
+  const idString = breakUrl[breakUrl.length - 1];
+  const id = parseInt(idString, 10);
+
   //turning attributes into a single array
   let { product } = attributes;
   const productItem = [];
