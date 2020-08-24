@@ -61,7 +61,7 @@ const SingleProduct = ({ id }) => {
             <p className='item-price'>
               <span className='item-field'>Preço:</span> R${price}
             </p>
-            <p class='item-size'>
+            <p className='item-size'>
               <span className='item-field'>Tamanho:</span> {size}
             </p>
           </div>
