@@ -1,11 +1,40 @@
+import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Info from '../components/Info';
 
 const Home = () => {
+  const [image, setImage] = useState(
+    'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
+  );
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      if (
+        image ===
+        'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
+      ) {
+        setImage(
+          'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598278582/atelieDaAdri/img-hero2.jpg'
+        );
+      } else {
+        setImage(
+          'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
+        );
+      }
+    }, 4250);
+
+    return () => clearInterval(timer);
+  });
+
   return (
     <div className='content'>
       <section className='hero'>
-        <div className='hero-content'>
+        <div
+          className='hero-content'
+          style={{
+            backgroundImage: 'url(' + image + ')',
+          }}
+        >
           <div className='hero-text'>
             <div>
               <h2>Peças de Crochê</h2>

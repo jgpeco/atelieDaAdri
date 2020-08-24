@@ -99,11 +99,12 @@ nav {
 .hero-content {
   width: 100%;
   height: 70vh;
-  background: url('https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg');
+  background-image: url('https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   opacity: 0.85;
+  transition: all 1s ease-in;
 }
 .cards {
   padding: 0 1.5rem;
