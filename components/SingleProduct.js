@@ -2,14 +2,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { attributes } from '../content/products.md';
 
-const SingleProduct = () => {
-  //getting what product will be shown in page
-  const url = window.location.href;
-  const separator = '/';
-  const breakUrl = url.split(separator);
-  const idString = breakUrl[breakUrl.length - 1];
-  const id = parseInt(idString, 10);
-
+const SingleProduct = ({ id }) => {
   //turning attributes into a single array
   let { product } = attributes;
   const productItem = [];
@@ -17,7 +10,7 @@ const SingleProduct = () => {
     productItem.push(item);
   });
 
-  //filtering the single product based on its ref
+  // filtering the single product based on its ref
   const singleProduct = productItem.filter((product) => product.ref === id);
 
   const {
@@ -65,7 +58,7 @@ const SingleProduct = () => {
               <span className='item-field'>Categoria: </span>
               {type}
             </p>
-            <p class='item-price'>
+            <p className='item-price'>
               <span className='item-field'>Preço:</span> R${price}
             </p>
             <p class='item-size'>
