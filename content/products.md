@@ -6,4 +6,27 @@ product:
     price: 20,00
     ref: 999999
     url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/card3.jpg
+  - name: Suplá Verde e Branco
+    type: Suplas
+    price: 15,00 cada
+    size: 5cm x 5cm
+    ref: 9582
+    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/supla-verde1-min.jpg
+    url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/supla-verde2-min.jpg
+    url3: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/supla-verde3-min.jpg
+  - name: Cesto Amarelo e Rosa
+    type: Cestos
+    price: 25,00
+    size: 15cm
+    ref: 7254
+    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-amarelo-rosa1-min.jpg
+    url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-amarelo-rosa2-min.jpg
+  - name: Cesto Parede
+    type: Outros
+    price: 30,00
+    size: 25cm
+    ref: 455521
+    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-parede3-min.jpg
+    url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede1-min.jpg
+    url3: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede2-min.jpg
 ---
