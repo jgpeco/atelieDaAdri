@@ -234,6 +234,11 @@ footer {
   text-align: center;
   cursor: pointer;
 }
+
+.filter .form-label:hover {
+  background-color: #eee5fa;
+}
+
 .filter .form-radio {
   display: none;
 }
@@ -269,12 +274,17 @@ footer {
   font-weight: 700;
   color: #81788d;
 }
+
 .product .item-body {
   line-height: 1.4;
   margin-top: 0.1rem;
 }
 .product img {
   width: 100%;
+}
+
+.product img:hover {
+  opacity: 0.8;
 }
 #single-content {
   display: flex;
