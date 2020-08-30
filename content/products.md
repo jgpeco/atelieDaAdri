@@ -29,4 +29,10 @@ product:
     url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-parede3-min.jpg
     url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede1-min.jpg
     url3: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede2-min.jpg
+  - name: Cesto Verde Mesclado
+    type: Cestos
+    price: R$ 20
+    size: 18 x 18 x 9cm
+    ref: 2
+    url1: https://drive.google.com/file/d/1hAlvwh6BaAS_AC_MR65g4zj9GEkNbuLL/view?usp=sharing
 ---
