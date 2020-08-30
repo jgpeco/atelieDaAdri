@@ -34,5 +34,5 @@ product:
     price: R$ 20
     size: 18 x 18 x 9cm
     ref: 2
-    url1: https://drive.google.com/file/d/1hAlvwh6BaAS_AC_MR65g4zj9GEkNbuLL/view?usp=sharing
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598809522/Site%20-%20Ateli%C3%AA%20da%20Adri/19_-_R_wbrhb1.jpg
 ---
