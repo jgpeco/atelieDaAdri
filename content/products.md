@@ -21,18 +21,26 @@ product:
     ref: 7254
     url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-amarelo-rosa1-min.jpg
     url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-amarelo-rosa2-min.jpg
-  - name: Cesto Parede
-    type: Outros
-    price: 30,00
-    size: 25cm
-    ref: 455521
-    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-parede3-min.jpg
-    url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede1-min.jpg
+  - size: 25cm
+    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede1-min.jpg
+    url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-parede3-min.jpg
     url3: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede2-min.jpg
+    url4: ""
+    price: 30,00
+    name: Cesto Parede
+    ref: 455521
+    type: Outros
   - name: Cesto Verde Mesclado
     type: Cestos
-    price: R$ 20
+    price: 20,00
     size: 18 x 18 x 9cm
     ref: 2
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598809522/Site%20-%20Ateli%C3%AA%20da%20Adri/19_-_R_wbrhb1.jpg
+  - name: Bolsa Amarela e Azul
+    type: Outros
+    price: 55,00
+    size: 40cm
+    ref: 888843742
+    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598887523/atelieDaAdri/cms/bolsa1-min.jpg
+    url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598887523/atelieDaAdri/cms/bolsa2-min.jpg
 ---
