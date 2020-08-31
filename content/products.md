@@ -22,9 +22,9 @@ product:
     url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-amarelo-rosa1-min.jpg
     url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-amarelo-rosa2-min.jpg
   - size: 25cm
-    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede1-min.jpg
+    url1: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede2-min.jpg
     url2: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289860/atelieDaAdri/cms/cesto-parede3-min.jpg
-    url3: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede2-min.jpg
+    url3: https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598289859/atelieDaAdri/cms/cesto-parede1-min.jpg
     url4: ""
     price: 30,00
     name: Cesto Parede
