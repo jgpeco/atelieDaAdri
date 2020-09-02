@@ -1,7 +1,7 @@
 ---
 product:
   - name: Cesto Estampado base mdf
-    type: Cesto
+    type: Cestos
     price: "16"
     size: 12,5x12,5x12,5cm
     ref: 1
@@ -9,7 +9,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1418-min_yoe14v.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1419-min_nowgat.jpg
   - name: Cesto Bordô Coraçãozinho
-    type: Cesto
+    type: Cestos
     price: "14"
     size: 8,5 x 9cm
     ref: 4
@@ -24,9 +24,9 @@ product:
     price: "26"
     name: Cesto Mostarda
     ref: 5
-    type: Cesto
+    type: Cestos
   - name: Cesto de Pendurar
-    type: Cesto
+    type: Cestos
     price: "20"
     size: 16x10cm
     ref: 6
@@ -41,9 +41,9 @@ product:
     price: "16"
     name: Cesto Salmão base de mdf
     ref: 7
-    type: Cesto
+    type: Cestos
   - name: Cesto Laranja com laço
-    type: Cesto
+    type: Cestos
     price: "20"
     size: 15x15x6,5cm
     ref: 8
@@ -58,9 +58,9 @@ product:
     price: "15"
     name: Cesto Azul base de mdf
     ref: 10
-    type: Cesto
+    type: Cestos
   - name: "Cesto Preto Mesclado "
-    type: Cesto
+    type: Cestos
     price: "14"
     size: 10x9,5
     ref: 11
@@ -75,9 +75,9 @@ product:
     price: "18"
     name: Cesto Preto Mesclado
     ref: 12
-    type: Cesto
+    type: Cestos
   - name: Cesto Preto Mesclado
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 17x8,5cm
     ref: 13
@@ -99,9 +99,9 @@ product:
     price: "18"
     name: Cesto Verde Escuro
     ref: 16
-    type: Cesto
+    type: Cestos
   - name: Cesto Vermelho
-    type: Cesto
+    type: Cestos
     price: "12"
     size: 10x9,5
     ref: 17
@@ -109,7 +109,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981707/Site%20-%20Ateli%C3%AA%20da%20Adri/017/IMG_1635-min_mkspz6.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981707/Site%20-%20Ateli%C3%AA%20da%20Adri/017/IMG_1639-min_pnkvfy.jpg
   - name: Cesto Preto Controle Remoto
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 9x16cm
     ref: 18
@@ -117,14 +117,14 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981707/Site%20-%20Ateli%C3%AA%20da%20Adri/018/_MG_18952-min_o6st1x.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981707/Site%20-%20Ateli%C3%AA%20da%20Adri/018/_MG_1893-min_a55sdk.jpg
   - name: Cesto Amarelo Queimado
-    type: Cesto
+    type: Cestos
     price: "14"
     size: 11x7,5cm
     ref: 19
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981708/Site%20-%20Ateli%C3%AA%20da%20Adri/019/IMG_1881-min_y4dyxe.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981708/Site%20-%20Ateli%C3%AA%20da%20Adri/019/IMG_1883-min_kikt8v.jpg
   - name: Cesto Lilás base mdf
-    type: Cesto
+    type: Cestos
     price: "22"
     size: 16x9cm
     ref: 20
@@ -139,22 +139,23 @@ product:
     price: "35"
     name: Cesto Roxo base mdf
     ref: 21
-    type: Cesto
+    type: Cestos
   - name: Cesto Laranja de Parede
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 19x18cm
     ref: 22
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1363-min_u0spc5.jpg
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1364-min_c6urnd.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1366-min_w1foj4.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1364-min_c6urnd.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1363-min_u0spc5.jpg
   - name: Mini Cesto Azul
-    type: Cesto
+    type: Cestos
     price: "8"
     size: 11x9cm
     ref: 23
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/023/IMG_1789-min_ix9mj8.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/023/IMG_1792-min_g5diiw.jpg
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/023/IMG_1792-min_g5diiw.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/023/IMG_1789-min_ix9mj8.jpg
+    url3: ""
   - size: 30x30cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981727/Site%20-%20Ateli%C3%AA%20da%20Adri/024/_MG_1159-min_jrfmod.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981727/Site%20-%20Ateli%C3%AA%20da%20Adri/024/_MG_1144-min_dtpo4s.jpg
@@ -163,9 +164,9 @@ product:
     price: "15"
     name: Suplá Bege e Verde
     ref: 24
-    type: Suplá
+    type: Suplas
   - name: Cesto Rosa Oval
-    type: Cesto
+    type: Cestos
     price: "15"
     size: 10x22x8cm
     ref: 25
@@ -180,9 +181,9 @@ product:
     price: "25"
     name: Cesto Laranja Pão de Queijo
     ref: 24
-    type: Cesto
+    type: Cestos
   - name: Cesto Amarelo e Verde
-    type: Cesto
+    type: Cestos
     price: "20"
     size: 20x20x9cm
     ref: 27
@@ -196,9 +197,9 @@ product:
     price: "25"
     name: Cesto Verde Escuro
     ref: 28
-    type: Cesto
+    type: Cestos
   - name: Cesto Azul e Rosa
-    type: Cesto
+    type: Cestos
     price: "15"
     size: 12x8cm
     ref: 29
@@ -206,7 +207,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981739/Site%20-%20Ateli%C3%AA%20da%20Adri/029/IMG_1809-min_sqyrbo.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981739/Site%20-%20Ateli%C3%AA%20da%20Adri/029/IMG_1807-min_vhva44.jpg
   - name: Cesto Rosa
-    type: Cesto
+    type: Cestos
     price: "12"
     size: 9x7
     ref: 30
@@ -214,7 +215,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/030/IMG_1845-min_mdd4mt.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/030/_MG_1178-min_efmmil.jpg
   - name: Cesto Amarelo
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 15x15x8cm
     ref: 31
@@ -222,14 +223,15 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981892/Site%20-%20Ateli%C3%AA%20da%20Adri/031/IMG_1447-min_j0hwpa.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981892/Site%20-%20Ateli%C3%AA%20da%20Adri/031/IMG_1440-min_ktjlkk.jpg
   - name: Mini Cesto Parede
-    type: Cesto
+    type: Cestos
     price: "10"
     size: 8x12cm
     ref: 33
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981893/Site%20-%20Ateli%C3%AA%20da%20Adri/033/IMG_1317-min_yhfo7n.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981893/Site%20-%20Ateli%C3%AA%20da%20Adri/033/IMG_1310-min_jsgm76.jpg
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981893/Site%20-%20Ateli%C3%AA%20da%20Adri/033/IMG_1310-min_jsgm76.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981893/Site%20-%20Ateli%C3%AA%20da%20Adri/033/IMG_1317-min_yhfo7n.jpg
+    url3: ""
   - name: Cesto Salmão
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 17x8
     ref: 34
@@ -237,7 +239,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981893/Site%20-%20Ateli%C3%AA%20da%20Adri/034/IMG_1816-min_mutzon.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981894/Site%20-%20Ateli%C3%AA%20da%20Adri/034/IMG_1817-min_hdaon1.jpg
   - name: Cesto Azul Claro
-    type: Cesto
+    type: Cestos
     price: "14"
     size: 12x10,5cm
     ref: 35
@@ -252,7 +254,7 @@ product:
     price: "20"
     name: "Cesto Verde "
     ref: 36
-    type: Cesto
+    type: Cestos
   - size: 19x27x6cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/037/_MG_1120-min_yvsf2q.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/037/_MG_1121-min_h55yqe.jpg
@@ -261,23 +263,23 @@ product:
     price: "30"
     name: Cesto Verde Claro
     ref: 37
-    type: Cesto
+    type: Cestos
   - name: Cesto Roxo base de mdf
-    type: Cesto
+    type: Cestos
     price: "14"
     size: 11,5x11,5x6,5cm
     ref: 38
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981904/Site%20-%20Ateli%C3%AA%20da%20Adri/038/1414-min_egw4qh.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981904/Site%20-%20Ateli%C3%AA%20da%20Adri/038/IMG_1428-min_hhniun.jpg
   - name: Cesto Páscoa
-    type: Cesto
+    type: Cestos
     price: "10"
     size: 9x6
     ref: 39
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981905/Site%20-%20Ateli%C3%AA%20da%20Adri/039/_MG_0941-min_mnzpje.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981904/Site%20-%20Ateli%C3%AA%20da%20Adri/039/_MG_0939-min_i4jehd.jpg
   - name: Suplá azul
-    type: Suplá
+    type: Suplas
     price: "15"
     size: 31x31cm
     ref: 40
@@ -285,21 +287,21 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1153-min_tjd8ji.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1151-min_pmuhkf.jpg
   - name: Suplá mesclado
-    type: Suplá
+    type: Suplas
     price: "15"
     size: 27x27cm
     ref: 41
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/041/_MG_1155-min_drutgn.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/041/_MG_1156-min_jskogb.jpg
   - name: Cesto Laranja e Marrom
-    type: Cesto
+    type: Cestos
     price: "24"
     size: 13x11cm
     ref: 42
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/042/_MG_1498-min_lmu7qe.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/042/_MG_1501-min_ouljkt.jpg
   - name: Cesto Amarelo
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 18x9cm
     ref: 43
@@ -307,34 +309,35 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/043/IMG_1628-min_wheukx.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/043/IMG_1629-min_stxr4g.jpg
   - name: Cesto Verde e Laranja
-    type: Cesto
+    type: Cestos
     price: "20"
     size: 14x9cm
     ref: 44
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981916/Site%20-%20Ateli%C3%AA%20da%20Adri/044/_MG_1871-min_hxjskp.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981916/Site%20-%20Ateli%C3%AA%20da%20Adri/044/_MG_1880-min_jzdvnk.jpg
   - name: Cesto Marrom Estrela
-    type: Cesto
+    type: Cestos
     price: "20"
     size: 14x9
     ref: 45
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981916/Site%20-%20Ateli%C3%AA%20da%20Adri/045/IMG_1304-min_ojuict.jpg
   - name: Cesto Amarelo Degradê
-    type: Cesto
+    type: Cestos
     price: "25"
     size: 18x12cm
     ref: 46
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981917/Site%20-%20Ateli%C3%AA%20da%20Adri/046/_MG_1106-min_p7obot.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981917/Site%20-%20Ateli%C3%AA%20da%20Adri/046/_MG_1113-min_ffmzlh.jpg
   - name: Mini Cesto Parede
-    type: Cesto
+    type: Cestos
     price: "10"
     size: 9x17cm
     ref: 47
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/047/IMG_1314-min_vunfnm.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/047/IMG_1310_-_Copia-min_itgovu.jpg
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/047/IMG_1310_-_Copia-min_itgovu.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/047/IMG_1314-min_vunfnm.jpg
+    url3: ""
   - name: Cesto Verde Escuro
-    type: Cesto
+    type: Cestos
     price: "18"
     size: 14,5x7cm
     ref: 48
@@ -342,7 +345,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/048/_MG_1718-min_c3qbsx.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/048/_MG_1718-min_c3qbsx.jpg
   - name: Cesto Branco Estrela
-    type: Cesto
+    type: Cestos
     price: "30"
     size: 20x11cm
     ref: 49
@@ -350,7 +353,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981919/Site%20-%20Ateli%C3%AA%20da%20Adri/049/_MG_0990-min_ay95sb.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981919/Site%20-%20Ateli%C3%AA%20da%20Adri/049/_MG_0986-min_zm9wtk.jpg
   - name: Cesto Colmeia
-    type: Cesto
+    type: Cestos
     price: "20"
     size: 20x12cm
     ref: 50
@@ -364,7 +367,7 @@ product:
     price: "35"
     name: Cesto Azul Estampado
     ref: 3
-    type: Cesto
+    type: Cestos
   - size: "40"
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1161-min_otwcp8.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1168-min_aapz9c.jpg
@@ -373,5 +376,47 @@ product:
     price: "55"
     name: Bolsa Mostarda e Azul
     ref: 15
-    type: Bolsa
+    type: Outros
+  - size: 20x8cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/051/IMG_1898-min_sd6gyf.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065196/Site%20-%20Ateli%C3%AA%20da%20Adri/051/IMG_1913-min_vxt00f.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065196/Site%20-%20Ateli%C3%AA%20da%20Adri/051/IMG_1912-min_blqamu.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065196/Site%20-%20Ateli%C3%AA%20da%20Adri/051/IMG_1901-min_asbfyg.jpg
+    price: "25"
+    name: Cesto Rosa pão de Queijo
+    ref: 51
+    type: Cestos
+  - name: Cesto Três Cores
+    type: Cestos
+    price: "25"
+    size: 13x12,5cm
+    ref: 52
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/052/IMG_1915-min_q42maq.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/052/IMG_1916-min_ltdpyu.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/052/IMG_1918-min_pkfgx2.jpg
+  - size: 12x9cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1920-min_cmmwtf.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1923-min_ymkshf.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1924-min_simz9k.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1921-min_poqrqe.jpg
+    price: "15"
+    name: Cesto Estampado com Azul
+    ref: 53
+    type: Cestos
+  - name: Capa para Caixa de Lenço
+    type: Outros
+    size: Indisponível para pronta-entrega. Apenas sob encomenda.
+    ref: 54
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/054/IMG_1587-min_qphaof.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/054/IMG_1591-min_fpq66h.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/054/IMG_1592-min_lqx7qo.jpg
+    price: "00"
+  - name: Capa para Kindle/Notebook
+    type: Outros
+    size: Indisponível para pronta-entrega. Apenas sob encomenda.
+    ref: 55
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065196/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5501-min_ee8coa.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5496-min_g3d1tm.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5498-min_gdinls.jpg
+    price: "00"
 ---
