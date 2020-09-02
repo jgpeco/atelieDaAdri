@@ -368,7 +368,7 @@ product:
     name: Cesto Azul Estampado
     ref: 3
     type: Cestos
-  - size: "40"
+  - size: 40cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1161-min_otwcp8.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1168-min_aapz9c.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1170-min_agk2pj.jpg
