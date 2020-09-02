@@ -419,11 +419,4 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5496-min_g3d1tm.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5498-min_gdinls.jpg
     price: "00"
-  - name: Cesto Amarelo e Melancia
-    type: Cestos
-    price: "25"
-    ref: 14
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981697/Site%20-%20Ateli%C3%AA%20da%20Adri/014/IMG_1359-min_o61ojl.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981697/Site%20-%20Ateli%C3%AA%20da%20Adri/014/IMG_1360-min_kmodph.jpg
-    size: 14x14cm
 ---
