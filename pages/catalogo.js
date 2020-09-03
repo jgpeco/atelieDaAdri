@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Head from 'next/head';
 import Navbar from '../components/Navbar';
 import ProductGrid from '../components/ProductGrid';
 import FilterForm from '../components/FilterForm';
@@ -10,6 +11,12 @@ const catalogo = () => {
 
   return (
     <>
+      <Head>
+        <meta
+          name='viewport'
+          content='width=device-width, initial-scale=1, shrink-to-fit=no'
+        />
+      </Head>
       <Navbar isCatalog={true} />
       <div className='content'>
         <section className='filter container'>
