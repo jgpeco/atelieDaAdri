@@ -234,11 +234,9 @@ footer {
   text-align: center;
   cursor: pointer;
 }
-
 .filter .form-label:hover {
   background-color: #eee5fa;
 }
-
 .filter .form-radio {
   display: none;
 }
@@ -258,7 +256,8 @@ footer {
 .product-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 2.5%;
+  column-gap: 2.5%;
+  row-gap: 2rem;
 }
 .product {
   margin-bottom: 1.5rem;
@@ -274,7 +273,6 @@ footer {
   font-weight: 700;
   color: #81788d;
 }
-
 .product .item-body {
   line-height: 1.4;
   margin-top: 0.1rem;
@@ -282,7 +280,6 @@ footer {
 .product img {
   width: 100%;
 }
-
 .product img:hover {
   opacity: 0.8;
 }
@@ -452,10 +449,10 @@ footer {
     margin-bottom: 5rem;
   }
   .product-grid {
-    grid-template-columns: 1fr;
+    display: block;
   }
   .product {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1.25rem;
   }
   .single-product {
     margin-top: 1rem;
