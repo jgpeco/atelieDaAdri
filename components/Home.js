@@ -24,7 +24,7 @@ const Home = () => {
     }, 4250);
 
     return () => clearInterval(timer);
-  });
+  }, []);
 
   return (
     <div className='content'>
