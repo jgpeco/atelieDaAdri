@@ -4,27 +4,27 @@ import Info from '../components/Info';
 
 const Home = () => {
   const [image, setImage] = useState(
-    'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
+    'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero2.jpg'
   );
 
-  useEffect(() => {
-    const timer = setInterval(() => {
-      if (
-        image ===
-        'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
-      ) {
-        setImage(
-          'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598278582/atelieDaAdri/img-hero2.jpg'
-        );
-      } else {
-        setImage(
-          'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
-        );
-      }
-    }, 4250);
+  // useEffect(() => {
+  //   const timer = setInterval(() => {
+  //     if (
+  //       image ===
+  //       'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
+  //     ) {
+  //       setImage(
+  //         'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1598278582/atelieDaAdri/img-hero2.jpg'
+  //       );
+  //     } else {
+  //       setImage(
+  //         'https://res.cloudinary.com/dxs3wvxxw/image/upload/v1597857434/atelieDaAdri/img-hero.jpg'
+  //       );
+  //     }
+  //   }, 4250);
 
-    return () => clearInterval(timer);
-  }, []);
+  //   return () => clearInterval(timer);
+  // }, []);
 
   return (
     <div className='content'>
