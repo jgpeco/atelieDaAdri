@@ -359,15 +359,6 @@ product:
     ref: 50
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/050/IMG_1612-min_ja97xf.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/050/IMG_1614-min_wzgife.jpg
-  - size: 27x10cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982222/Site%20-%20Ateli%C3%AA%20da%20Adri/003/IMG_1759-min_jbfekq.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982222/Site%20-%20Ateli%C3%AA%20da%20Adri/003/_MG_1758-min_vf2pc6.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982222/Site%20-%20Ateli%C3%AA%20da%20Adri/003/IMG_1761-min_h8d7bs.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982222/Site%20-%20Ateli%C3%AA%20da%20Adri/003/IMG_1762-min_bbxf01.jpg
-    price: "35"
-    name: Cesto Azul Estampado
-    ref: 3
-    type: Cestos
   - size: 40cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1161-min_otwcp8.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1168-min_aapz9c.jpg
