@@ -410,4 +410,67 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5496-min_g3d1tm.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5498-min_gdinls.jpg
     price: "00"
+  - size: 12,5x12,5cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1929-min_qmlgt7.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1930-min_fbdv8f.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1934-min_ucgxik.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1925-min_wnsvp7.jpg
+    price: "25"
+    name: Cesto Azul Mesclado
+    ref: 56
+    type: Cestos
+  - size: 11,5x11cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1936-min_gcrarw.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1938-min_waxyyp.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1944-min_qdqpsv.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1939-min_fm0ail.jpg
+    price: "18"
+    name: Cesto Rosa Alto
+    ref: 57
+    type: Cestos
+  - name: Trio de Cestos
+    type: Cestos
+    price: "55"
+    size: 17x9, 15x8,10x7
+    ref: 58
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/058/IMG_1958-min_rxhjd7.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/058/IMG_1960-min_vzsyjq.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/058/IMG_1959-min_pe7e8r.jpg
+  - size: 17x17x9cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516843/Site%20-%20Ateli%C3%AA%20da%20Adri/059/IMG_1963-min_xhwgyn.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516843/Site%20-%20Ateli%C3%AA%20da%20Adri/059/IMG_1965-min_cvxuma.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516843/Site%20-%20Ateli%C3%AA%20da%20Adri/059/IMG_1967-min_bv38ke.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516843/Site%20-%20Ateli%C3%AA%20da%20Adri/059/IMG_1965-min_cvxuma.jpg
+    price: "25"
+    name: Cesto Bege Grande
+    ref: 59
+    type: Cestos
+  - size: 15x15x8cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/060/IMG_1968-min_f25moz.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/060/IMG_1971-min_en3bxi.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/060/IMG_1970-min_jzhhac.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/060/IMG_1973-min_w5zwep.jpg
+    price: "20"
+    name: Cesto Bege Médio
+    ref: 60
+    type: Cestos
+  - size: 10x10x7cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/061/IMG_1977-min_xz0rrt.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/061/IMG_1978-min_fgkkvf.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/061/IMG_1980-min_g7ob4f.jpg
+    url4: ""
+    price: "15"
+    name: Cesto Bege Pequeno
+    ref: 61
+    type: Cestos
+  - size: 20x5,5cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1982-min_hspod9.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1988-min_uhd4df.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1985-min_bllorr.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1986-min_svtctx.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1981-min_zpseqv.jpg
+    price: "35"
+    name: Cesto Nossa Senhora
+    ref: 62
+    type: Cestos
 ---
