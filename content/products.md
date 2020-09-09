@@ -359,15 +359,6 @@ product:
     ref: 50
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/050/IMG_1612-min_ja97xf.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/050/IMG_1614-min_wzgife.jpg
-  - size: 40cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1161-min_otwcp8.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1168-min_aapz9c.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1170-min_agk2pj.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981695/Site%20-%20Ateli%C3%AA%20da%20Adri/015/_MG_1172-min_raa2vq.jpg
-    price: "55"
-    name: Bolsa Mostarda e Azul
-    ref: 15
-    type: Outros
   - size: 20x8cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/051/IMG_1898-min_sd6gyf.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065196/Site%20-%20Ateli%C3%AA%20da%20Adri/051/IMG_1913-min_vxt00f.jpg
