@@ -429,4 +429,23 @@ product:
     name: Cesto Nossa Senhora
     ref: 62
     type: Cestos
+  - size: 15x13cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2001-min_pswadw.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2002-min_fkw2f1.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100123/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2004-min_rlvjog.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100122/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2005-min_aaetnt.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100124/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2007-min_f0hlbj.jpg
+    price: "20"
+    name: Cesto Preto e Branco
+    ref: 61
+    type: Cestos
+  - size: 15x11,5
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100122/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2011-min_gcd3ja.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2016-min_spcpy9.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100123/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2012-min_a22aqw.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2013-min_kmmkyu.jpg
+    price: "25"
+    name: Cesto Mostarda Coraçãozinho
+    ref: 64
+    type: Cestos
 ---
