@@ -123,14 +123,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1364-min_c6urnd.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1366-min_w1foj4.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/022/IMG_1363-min_u0spc5.jpg
-  - name: Mini Cesto Azul
-    type: Cestos
-    price: "8"
-    size: 11x9cm
-    ref: 23
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/023/IMG_1792-min_g5diiw.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/023/IMG_1789-min_ix9mj8.jpg
-    url3: ""
   - size: 30x30cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981727/Site%20-%20Ateli%C3%AA%20da%20Adri/024/_MG_1159-min_jrfmod.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981727/Site%20-%20Ateli%C3%AA%20da%20Adri/024/_MG_1144-min_dtpo4s.jpg
@@ -275,14 +267,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/048/IMG_1713-min_hhszkl.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/048/_MG_1718-min_c3qbsx.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981918/Site%20-%20Ateli%C3%AA%20da%20Adri/048/_MG_1718-min_c3qbsx.jpg
-  - name: Cesto Branco Estrela
-    type: Cestos
-    price: "30"
-    size: 20x11cm
-    ref: 49
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981919/Site%20-%20Ateli%C3%AA%20da%20Adri/049/_MG_0985-min_llljkp.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981919/Site%20-%20Ateli%C3%AA%20da%20Adri/049/_MG_0990-min_ay95sb.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981919/Site%20-%20Ateli%C3%AA%20da%20Adri/049/_MG_0986-min_zm9wtk.jpg
   - name: Cesto Colmeia
     type: Cestos
     price: "20"
@@ -341,16 +325,6 @@ product:
     price: "18"
     name: Cesto Rosa Médio
     ref: 57
-    type: Cestos
-  - size: 20x5,5cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1982-min_hspod9.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1988-min_uhd4df.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1985-min_bllorr.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1986-min_svtctx.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516840/Site%20-%20Ateli%C3%AA%20da%20Adri/062/IMG_1981-min_zpseqv.jpg
-    price: "35"
-    name: Cesto Nossa Senhora
-    ref: 62
     type: Cestos
   - size: 15x13cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2001-min_pswadw.jpg
