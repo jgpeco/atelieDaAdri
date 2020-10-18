@@ -212,13 +212,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1154-min_wlt5bs.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1153-min_tjd8ji.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1151-min_pmuhkf.jpg
-  - name: Suplá mesclado
-    type: Suplas
-    price: "15"
-    size: 27x27cm
-    ref: 41
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/041/_MG_1155-min_drutgn.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981915/Site%20-%20Ateli%C3%AA%20da%20Adri/041/_MG_1156-min_jskogb.jpg
   - name: Cesto Amarelo Degradê
     type: Cestos
     price: "25"
