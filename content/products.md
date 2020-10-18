@@ -8,14 +8,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1417-min_twemnt.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1418-min_yoe14v.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1419-min_nowgat.jpg
-  - name: Cesto Bordô Coraçãozinho
-    type: Cestos
-    price: "14"
-    size: 8,5 x 9cm
-    ref: 4
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982222/Site%20-%20Ateli%C3%AA%20da%20Adri/004/IMG_1408-min_pnizkk.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982222/Site%20-%20Ateli%C3%AA%20da%20Adri/004/14-min_xln1bo.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/004/IMG_1412-min_k5gyel.jpg
   - size: 16x16cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1505-min_xrhtxr.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1508-min_lbsduw.jpg
@@ -41,15 +33,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982220/Site%20-%20Ateli%C3%AA%20da%20Adri/008/IMG_1595-min_c8dc6o.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982221/Site%20-%20Ateli%C3%AA%20da%20Adri/008/IMG_1597-min_kp55z2.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982221/Site%20-%20Ateli%C3%AA%20da%20Adri/008/IMG_1598-min_mil3se.jpg
-  - size: 14x10,5
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981686/Site%20-%20Ateli%C3%AA%20da%20Adri/010/_MG_1733-min_yknvcy.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981686/Site%20-%20Ateli%C3%AA%20da%20Adri/010/_MG_1736-min_fidlu2.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981686/Site%20-%20Ateli%C3%AA%20da%20Adri/010/_MG_1737-min_g0e2j5.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981687/Site%20-%20Ateli%C3%AA%20da%20Adri/010/_MG_1738-min_f1joc6.jpg
-    price: "15"
-    name: Cesto Azul base de mdf
-    ref: 10
-    type: Cestos
   - name: "Cesto Preto Mesclado "
     type: Cestos
     price: "14"
@@ -165,14 +148,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981739/Site%20-%20Ateli%C3%AA%20da%20Adri/029/IMG_1805-min_i3xatq.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981739/Site%20-%20Ateli%C3%AA%20da%20Adri/029/IMG_1809-min_sqyrbo.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981739/Site%20-%20Ateli%C3%AA%20da%20Adri/029/IMG_1807-min_vhva44.jpg
-  - name: Cesto Rosa
-    type: Cestos
-    price: "12"
-    size: 9x7
-    ref: 30
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/030/IMG_1832-min_gvktz8.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/030/IMG_1845-min_mdd4mt.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/030/_MG_1178-min_efmmil.jpg
   - name: Cesto Amarelo
     type: Cestos
     price: "18"
@@ -308,15 +283,6 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5496-min_g3d1tm.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5498-min_gdinls.jpg
     price: "00"
-  - size: 12,5x12,5cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1929-min_qmlgt7.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1930-min_fbdv8f.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1934-min_ucgxik.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516841/Site%20-%20Ateli%C3%AA%20da%20Adri/056/IMG_1925-min_wnsvp7.jpg
-    price: "25"
-    name: Cesto Azul Mesclado
-    ref: 56
-    type: Cestos
   - size: 11,5x11cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1936-min_gcrarw.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1938-min_waxyyp.jpg
@@ -345,26 +311,6 @@ product:
     name: Cesto Mostarda Coraçãozinho
     ref: 64
     type: Cestos
-  - size: 35x15x5(base) 9x11,5
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911734/Site%20-%20Ateli%C3%AA%20da%20Adri/065/IMG_2098-min_gk2fte.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911734/Site%20-%20Ateli%C3%AA%20da%20Adri/065/IMG_2101-min_hjyard.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911734/Site%20-%20Ateli%C3%AA%20da%20Adri/065/IMG_2102-min_paucxa.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911735/Site%20-%20Ateli%C3%AA%20da%20Adri/065/IMG_2103-min_nc3cqe.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911734/Site%20-%20Ateli%C3%AA%20da%20Adri/065/IMG_2102-min_paucxa.jpg
-    price: "110"
-    name: Porta talheres
-    ref: 65
-    type: Cestos
-  - size: 10x10cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911735/Site%20-%20Ateli%C3%AA%20da%20Adri/066/IMG_2035-min_epdsw5.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911735/Site%20-%20Ateli%C3%AA%20da%20Adri/066/IMG_2039-min_oxrndi.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911735/Site%20-%20Ateli%C3%AA%20da%20Adri/066/IMG_2056-min_mfqe3t.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911736/Site%20-%20Ateli%C3%AA%20da%20Adri/066/IMG_2049-min_dflsin.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911735/Site%20-%20Ateli%C3%AA%20da%20Adri/066/IMG_2040-min_ipvgxb.jpg
-    price: "18"
-    name: Cesto Tye Die Escuro
-    ref: 66
-    type: Cestos
   - size: 14x14x9cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911737/Site%20-%20Ateli%C3%AA%20da%20Adri/067/IMG_2070-min_ztrbf8.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911736/Site%20-%20Ateli%C3%AA%20da%20Adri/067/IMG_2066-min_ebzinb.jpg
@@ -372,7 +318,7 @@ product:
     url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911736/Site%20-%20Ateli%C3%AA%20da%20Adri/067/IMG_2062-min_kvz3sp.jpg
     url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911736/Site%20-%20Ateli%C3%AA%20da%20Adri/067/IMG_2068-min_rclv3k.jpg
     price: "18"
-    name: Cesto Tye Die Baby
+    name: Cesto Tie Dye Baby
     ref: 67
     type: Cestos
   - size: 13x10cm
