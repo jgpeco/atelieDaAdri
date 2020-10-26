@@ -299,4 +299,29 @@ product:
     name: Cesto Estampado Verde e Branco
     ref: 70
     type: Cestos
+  - name: Cesto Marrom Degradê
+    type: Cestos
+    price: "35"
+    size: 18x10cm
+    ref: 71
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722568/Site%20-%20Ateli%C3%AA%20da%20Adri/071/IMG_2107-min_jphccq.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722568/Site%20-%20Ateli%C3%AA%20da%20Adri/071/IMG_2111-min_bf9ofq.jpg
+  - name: Cesto Azul Índigo Corações
+    type: Cestos
+    price: "22"
+    size: 12x12x10
+    ref: 73
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/073/IMG_2135-min_ww3hiw.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/073/IMG_2138-min_jredif.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/073/IMG_2142-min_rl3frt.jpg
+  - size: 12x10
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2145-min_eqbrmq.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2143-min_bch0po.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2147-min_udratl.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2148-min_d8ohnu.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2144-min_p1ewc2.jpg
+    price: "22"
+    name: Cesto Redondo Tie Dye Baby
+    ref: 74
+    type: Cestos
 ---
