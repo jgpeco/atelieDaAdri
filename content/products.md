@@ -299,13 +299,6 @@ product:
     name: Cesto Estampado Verde e Branco
     ref: 70
     type: Cestos
-  - name: Cesto Marrom Degradê
-    type: Cestos
-    price: "35"
-    size: 18x10cm
-    ref: 71
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722568/Site%20-%20Ateli%C3%AA%20da%20Adri/071/IMG_2107-min_jphccq.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722568/Site%20-%20Ateli%C3%AA%20da%20Adri/071/IMG_2111-min_bf9ofq.jpg
   - name: Cesto Azul Índigo Corações
     type: Cestos
     price: "22"
