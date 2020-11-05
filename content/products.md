@@ -89,15 +89,6 @@ product:
     ref: 19
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981708/Site%20-%20Ateli%C3%AA%20da%20Adri/019/IMG_1881-min_y4dyxe.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981708/Site%20-%20Ateli%C3%AA%20da%20Adri/019/IMG_1883-min_kikt8v.jpg
-  - size: 29x18x9cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981725/Site%20-%20Ateli%C3%AA%20da%20Adri/021/IMG_1688-min_ldztoi.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981725/Site%20-%20Ateli%C3%AA%20da%20Adri/021/_MG_1700-min_ds9vbq.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981725/Site%20-%20Ateli%C3%AA%20da%20Adri/021/_MG_1693-min_eymbyn.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981726/Site%20-%20Ateli%C3%AA%20da%20Adri/021/_MG_1704-min_nhqycr.jpg
-    price: "35"
-    name: Cesto Roxo base mdf
-    ref: 21
-    type: Cestos
   - name: Cesto Laranja de Parede
     type: Cestos
     price: "18"
