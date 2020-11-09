@@ -254,15 +254,6 @@ product:
     name: Cesto Cinza Degradê
     ref: 61
     type: Cestos
-  - size: 15x11,5
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100122/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2011-min_gcd3ja.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2016-min_spcpy9.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100123/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2012-min_a22aqw.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/064/IMG_2013-min_kmmkyu.jpg
-    price: "25"
-    name: Cesto Mostarda Coraçãozinho
-    ref: 64
-    type: Cestos
   - size: 13x10cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911737/Site%20-%20Ateli%C3%AA%20da%20Adri/068/IMG_2085-min_xqvwen.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911737/Site%20-%20Ateli%C3%AA%20da%20Adri/068/IMG_2084-min_vqoyzh.jpg
