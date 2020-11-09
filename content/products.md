@@ -308,4 +308,60 @@ product:
     name: Cesto Redondo Tie Dye Baby
     ref: 74
     type: Cestos
+  - size: 10x7
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2150-min_jipohx.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2153-min_rg0qgl.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2155-min_vhwchx.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2154-min_shefcg.jpg
+    price: "14"
+    name: Cesto Fantasia Lilás
+    ref: 75
+    type: Cestos
+  - size: 14x10
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2176-min_rgdyon.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2165-min_uinm56.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2173-min_jg8ud0.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2169-min_kkin9x.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2166-min_xcpwt2.jpg
+    price: "42"
+    name: Cesto Tampa MDF
+    ref: 74
+    type: Cestos
+  - size: 10,5x8
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2183-min_hsvaqt.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2178-min_x6qv91.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2189-min_zty1jq.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2187-min_itgsqp.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2181-min_c8cqii.jpg
+    price: "30"
+    name: Cesto Verde e Rosa Tampa Mdf
+    ref: 77
+    type: Cestos
+  - size: 12x10,5cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/078/IMG_2190-min_mvuec9.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/078/IMG_2195-min_fjsun9.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/078/IMG_2192-min_kitehe.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/078/IMG_2193-min_emsxgo.jpg
+    price: "30"
+    name: Cesto Rosa com Borda
+    ref: 72
+    type: Cestos
+  - size: 10x10cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/079/IMG_2197-min_iasaur.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929586/Site%20-%20Ateli%C3%AA%20da%20Adri/079/IMG_2201-min_k7caf6.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929586/Site%20-%20Ateli%C3%AA%20da%20Adri/079/IMG_2199-min_tkqyqz.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929586/Site%20-%20Ateli%C3%AA%20da%20Adri/079/IMG_2204-min_djynrf.jpg
+    price: "18"
+    name: Cesto Tie Dye Escuro Base Mdf
+    ref: 79
+    type: Cestos
+  - size: 10x8
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/080/IMG_2156-min_trfq8c.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/080/IMG_2157-min_tlb0fg.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/080/IMG_2162-min_tq8mim.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/080/IMG_2163-min_tgy08z.jpg
+    price: "14"
+    name: Cesto Fantasia Bege e Laranja
+    ref: 77
+    type: Cestos
 ---
