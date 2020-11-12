@@ -20,13 +20,15 @@ const ProductGrid = ({ searchValue, filter }) => {
 
   const searchedProduct = filteredProduct.filter((product) =>
     product.name.toLowerCase().includes(searchValue.toLowerCase())
-  );
+  )
+
+  const displayProducts = searchedProduct.reverse()
 
   return (
     <section className='products container'>
       <div className='product-grid'>
-        {searchedProduct.length ? (
-          searchedProduct.map((product, k) => (
+        {displayProducts.length ? (
+          displayProducts.map((product, k) => (
             <Product key={k} product={product} />
           ))
         ) : (
