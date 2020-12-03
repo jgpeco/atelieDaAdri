@@ -304,7 +304,7 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2153-min_rg0qgl.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2155-min_vhwchx.jpg
     url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2154-min_shefcg.jpg
-    price: "14"
+    price: "18"
     name: Cesto Fantasia Lilás
     ref: 75
     type: Cestos
