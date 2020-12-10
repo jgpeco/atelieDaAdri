@@ -106,15 +106,6 @@ product:
     name: Suplá Bege e Verde
     ref: 24
     type: Suplas
-  - size: 19x8cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/026/IMG_1599-min_olujaf.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/026/IMG_1602-min_yavarc.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981737/Site%20-%20Ateli%C3%AA%20da%20Adri/026/IMG_1608-min_oz7wt4.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981738/Site%20-%20Ateli%C3%AA%20da%20Adri/026/IMG_1609-min_rlgxfw.jpg
-    price: "25"
-    name: Cesto Laranja Pão de Queijo
-    ref: 26
-    type: Cestos
   - name: Cesto Amarelo e Verde
     type: Cestos
     price: "20"
@@ -281,24 +272,6 @@ product:
     name: Cesto Estampado Verde e Branco
     ref: 70
     type: Cestos
-  - name: Cesto Azul Índigo Corações
-    type: Cestos
-    price: "22"
-    size: 12x12x10
-    ref: 73
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/073/IMG_2135-min_ww3hiw.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/073/IMG_2138-min_jredif.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/073/IMG_2142-min_rl3frt.jpg
-  - size: 12x10
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2145-min_eqbrmq.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2143-min_bch0po.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2147-min_udratl.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2148-min_d8ohnu.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1603722567/Site%20-%20Ateli%C3%AA%20da%20Adri/074/IMG_2144-min_p1ewc2.jpg
-    price: "22"
-    name: Cesto Redondo Tie Dye Baby
-    ref: 74
-    type: Cestos
   - size: 10x7
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2150-min_jipohx.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2153-min_rg0qgl.jpg
@@ -317,16 +290,6 @@ product:
     price: "42"
     name: Cesto Tampa MDF
     ref: 74
-    type: Cestos
-  - size: 10,5x8
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2183-min_hsvaqt.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2178-min_x6qv91.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2189-min_zty1jq.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2187-min_itgsqp.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/077/IMG_2181-min_c8cqii.jpg
-    price: "30"
-    name: Cesto Verde e Rosa Tampa Mdf
-    ref: 77
     type: Cestos
   - size: 12x10,5cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929585/Site%20-%20Ateli%C3%AA%20da%20Adri/078/IMG_2190-min_mvuec9.jpg
@@ -354,5 +317,49 @@ product:
     price: "14"
     name: Cesto Fantasia Bege e Laranja
     ref: 77
+    type: Cestos
+  - size: 17x17cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456452/Site%20-%20Ateli%C3%AA%20da%20Adri/082/IMG_2272-min_k8zxqr.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456453/Site%20-%20Ateli%C3%AA%20da%20Adri/082/IMG_2275-min_zcxk0n.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456453/Site%20-%20Ateli%C3%AA%20da%20Adri/082/IMG_2275-min_zcxk0n.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456453/Site%20-%20Ateli%C3%AA%20da%20Adri/082/IMG_2275-min_zcxk0n.jpg
+    price: "30"
+    name: Cesto Natalino Quadrado
+    ref: 82
+    type: Cestos
+  - size: 12x13cm 14cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2357-min_lmm3qa.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456453/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2345-min_y66mfk.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456453/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2317-min_lwrjbf.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2353-min_tkskgb.jpg
+    price: "18"
+    name: Mandalas Coração Vermelho
+    ref: 83
+    type: Outros
+  - name: Mandalas Coração Azul 1
+    type: Outros
+    price: "18"
+    size: 12x13cm 14cm
+    ref: 84
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456455/Site%20-%20Ateli%C3%AA%20da%20Adri/084/IMG_2357-min_fsk2v1.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/084/IMG_2331-min_mpg5b8.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/084/IMG_2325-min_dc4df1.jpg
+  - name: Mandalas Coração Azul 2
+    type: Outros
+    price: "18"
+    size: 12x13cm 14cm
+    ref: 85
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456452/Site%20-%20Ateli%C3%AA%20da%20Adri/085/IMG_2357-min_uz4imb.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/085/IMG_2340-min_xhdxtn.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/085/IMG_2339-min_jkd164.jpg
+  - size: 15,5x13cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2293-min_jdtuzu.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2294-min_g5mwvu.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2297-min_xvfjng.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2298-min_e2ceru.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2295-min_qmniuh.jpg
+    price: "27"
+    name: Cesto Listrado Verde e Cinza
+    ref: 86
     type: Cestos
 ---
