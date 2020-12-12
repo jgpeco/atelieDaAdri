@@ -1,13 +1,5 @@
 ---
 product:
-  - name: Cesto Estampado base mdf
-    type: Cestos
-    price: "16"
-    size: 12,5x12,5x12,5cm
-    ref: 1
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1417-min_twemnt.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1418-min_yoe14v.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982156/Site%20-%20Ateli%C3%AA%20da%20Adri/001/IMG_1419-min_nowgat.jpg
   - size: 16x16cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1505-min_xrhtxr.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1508-min_lbsduw.jpg
@@ -65,15 +57,6 @@ product:
     ref: 14
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981697/Site%20-%20Ateli%C3%AA%20da%20Adri/014/IMG_1359-min_o61ojl.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981697/Site%20-%20Ateli%C3%AA%20da%20Adri/014/IMG_1360-min_kmodph.jpg
-  - size: 13x9cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981709/Site%20-%20Ateli%C3%AA%20da%20Adri/016/_MG_1847-min_vborl0.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981710/Site%20-%20Ateli%C3%AA%20da%20Adri/016/_MG_1853-min_zzvk4z.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981709/Site%20-%20Ateli%C3%AA%20da%20Adri/016/_MG_1852-min_jb9orq.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981710/Site%20-%20Ateli%C3%AA%20da%20Adri/016/_MG_1855-min_b7s6gj.jpg
-    price: "18"
-    name: Cesto Verde Escuro
-    ref: 16
-    type: Cestos
   - name: Cesto Preto Controle Remoto
     type: Cestos
     price: "18"
@@ -272,15 +255,6 @@ product:
     name: Cesto Estampado Verde e Branco
     ref: 70
     type: Cestos
-  - size: 10x7
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2150-min_jipohx.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2153-min_rg0qgl.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2155-min_vhwchx.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929583/Site%20-%20Ateli%C3%AA%20da%20Adri/075/IMG_2154-min_shefcg.jpg
-    price: "18"
-    name: Cesto Fantasia Lilás
-    ref: 75
-    type: Cestos
   - size: 14x10
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2176-min_rgdyon.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1604929584/Site%20-%20Ateli%C3%AA%20da%20Adri/076/IMG_2165-min_uinm56.jpg
@@ -328,16 +302,6 @@ product:
     ref: 82
     type: Cestos
   - size: 12x13cm 14cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456453/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2345-min_y66mfk.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2357-min_lmm3qa.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2357-min_lmm3qa.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/083/IMG_2353-min_tkskgb.jpg
-    url5: ""
-    price: "18"
-    name: Mandalas Coração Vermelho
-    ref: 83
-    type: Outros
-  - size: 12x13cm 14cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/084/IMG_2331-min_mpg5b8.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456455/Site%20-%20Ateli%C3%AA%20da%20Adri/084/IMG_2357-min_fsk2v1.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456454/Site%20-%20Ateli%C3%AA%20da%20Adri/084/IMG_2325-min_dc4df1.jpg
@@ -345,15 +309,6 @@ product:
     price: "18"
     name: Mandalas Coração Azul 1
     ref: 84
-    type: Outros
-  - size: 12x13cm 14cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/085/IMG_2340-min_xhdxtn.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/085/IMG_2339-min_jkd164.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456452/Site%20-%20Ateli%C3%AA%20da%20Adri/085/IMG_2357-min_uz4imb.jpg
-    url4: ""
-    price: "18"
-    name: Mandalas Coração Azul 2
-    ref: 85
     type: Outros
   - size: 15,5x13cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2293-min_jdtuzu.jpg
