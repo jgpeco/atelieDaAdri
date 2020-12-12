@@ -89,13 +89,6 @@ product:
     name: Suplá Bege e Verde
     ref: 24
     type: Suplas
-  - name: Cesto Amarelo e Verde
-    type: Cestos
-    price: "20"
-    size: 20x20x9cm
-    ref: 27
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981738/Site%20-%20Ateli%C3%AA%20da%20Adri/027/IMG_1568-min_xt2pcy.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981738/Site%20-%20Ateli%C3%AA%20da%20Adri/027/IMG_1566-min_ihhipi.jpg
   - size: 18x10cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981738/Site%20-%20Ateli%C3%AA%20da%20Adri/028/_MG_1857-min_lfkict.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981739/Site%20-%20Ateli%C3%AA%20da%20Adri/028/_MG_1862-min_ftptg8.jpg
