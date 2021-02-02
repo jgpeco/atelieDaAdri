@@ -219,4 +219,102 @@ product:
     name: Cesto Listrado Verde e Cinza
     ref: 86
     type: Cestos
+  - name: Cesto Fantasia Tricolor
+    type: Cestos
+    price: "18"
+    size: 14cmx9cm
+    ref: 82
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204947/Site%20-%20Ateli%C3%AA%20da%20Adri/087/IMG_2382-min_nuyscj.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/087/IMG_2381-min_fo2e72.jpg
+  - size: 12,5cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2500-min_wyf0il.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2389-min_rujmbr.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204946/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2509-min_rted9i.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2387-min_i00xgg.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2393-min_artsik.jpg
+    price: 5 cada
+    name: Porta Copo/caneca Mostarda
+    ref: 88
+    type: Outros
+  - name: Porta Panela Azul M
+    type: Outros
+    price: "10"
+    size: 16cm
+    ref: 89
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204947/Site%20-%20Ateli%C3%AA%20da%20Adri/089/IMG_2400-min_iuimk3.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204948/Site%20-%20Ateli%C3%AA%20da%20Adri/089/IMG_2403-min_fcfnpl.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204946/Site%20-%20Ateli%C3%AA%20da%20Adri/089/IMG_2399-min_i39rdo.jpg
+  - size: 22cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204948/Site%20-%20Ateli%C3%AA%20da%20Adri/090/IMG_2423-min_hpyumq.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/090/IMG_2427-min_jfrf2v.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204948/Site%20-%20Ateli%C3%AA%20da%20Adri/090/IMG_2424-min_i3clgm.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204948/Site%20-%20Ateli%C3%AA%20da%20Adri/090/IMG_2407-min_umjhlm.jpg
+    price: "13"
+    name: Porta Panela Verde Maçã
+    ref: 90
+    type: Outros
+  - size: 12x12x8 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2438-min_wyzbs5.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2434-min_bxajxz.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2434-min_bxajxz.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2432-min_pbdwrb.jpg
+    price: "18"
+    name: Cesto Quadrado Telha e Rosê
+    ref: 91
+    type: Cestos
+  - size: 13cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204950/Site%20-%20Ateli%C3%AA%20da%20Adri/092/IMG_2526-min_ourweh.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204950/Site%20-%20Ateli%C3%AA%20da%20Adri/092/IMG_2441-min_fcleer.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204950/Site%20-%20Ateli%C3%AA%20da%20Adri/092/IMG_2527-min_p3s6g8.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204950/Site%20-%20Ateli%C3%AA%20da%20Adri/092/IMG_2446-min_ezdg2t.jpg
+    price: 5 cada
+    name: Porta Copo/caneca Laranja Estampado
+    ref: 92
+    type: Outros
+  - size: 13cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204951/Site%20-%20Ateli%C3%AA%20da%20Adri/093/IMG_2458-min_ffy1qi.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204951/Site%20-%20Ateli%C3%AA%20da%20Adri/093/IMG_2517-min_wevtx1.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204951/Site%20-%20Ateli%C3%AA%20da%20Adri/093/IMG_2458-min_ffy1qi.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204951/Site%20-%20Ateli%C3%AA%20da%20Adri/093/IMG_2456-min_myuqxa.jpg
+    price: 5,00
+    name: Porta Copo/caneca Verde e Branco
+    ref: 93
+    type: Outros
+  - size: 12 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204952/Site%20-%20Ateli%C3%AA%20da%20Adri/094/IMG_2483-min_xzq8yj.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204952/Site%20-%20Ateli%C3%AA%20da%20Adri/094/IMG_2491-min_kbsfje.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204951/Site%20-%20Ateli%C3%AA%20da%20Adri/094/IMG_2471-min_dowy16.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204953/Site%20-%20Ateli%C3%AA%20da%20Adri/094/IMG_2493-min_behaa2.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204951/Site%20-%20Ateli%C3%AA%20da%20Adri/094/IMG_2470-min_e4e3cp.jpg
+    price: 5,00
+    name: Porta Copo/Caneca Preto Estampado
+    ref: 94
+    type: Outros
+  - size: 16,5x10 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204953/Site%20-%20Ateli%C3%AA%20da%20Adri/095/IMG_2536-min_cre9ii.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204952/Site%20-%20Ateli%C3%AA%20da%20Adri/095/IMG_2531-min_zker0z.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204953/Site%20-%20Ateli%C3%AA%20da%20Adri/095/IMG_2533-min_hkcbwl.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204952/Site%20-%20Ateli%C3%AA%20da%20Adri/095/IMG_2530-min_or60jp.jpg
+    price: 28,00
+    name: Cachepô Vinho com Babado
+    ref: 95
+    type: Cestos
+  - name: Porta Pincel/Lápis Bordô
+    type: Cestos
+    price: 8,00
+    size: 9x9cm
+    ref: 96
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204953/Site%20-%20Ateli%C3%AA%20da%20Adri/096/IMG_2538-min_r3oi8p.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204953/Site%20-%20Ateli%C3%AA%20da%20Adri/096/IMG_2544-min_goucur.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204953/Site%20-%20Ateli%C3%AA%20da%20Adri/096/IMG_2547-min_zkv8y6.jpg
+  - size: 35x15x13 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/097/IMG_2577-min_i55ass.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/097/IMG_2554-min_fv5dqk.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204944/Site%20-%20Ateli%C3%AA%20da%20Adri/097/IMG_2555-min_yjx7of.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204944/Site%20-%20Ateli%C3%AA%20da%20Adri/097/IMG_2555-min_yjx7of.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204944/Site%20-%20Ateli%C3%AA%20da%20Adri/097/IMG_2551-min_qjwlla.jpg
+    price: "70"
+    name: Porta Talheres Tricolor
+    ref: 97
+    type: Outros
 ---
