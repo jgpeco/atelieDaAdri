@@ -253,15 +253,6 @@ product:
     name: Porta Panela Verde Maçã
     ref: 90
     type: Outros
-  - size: 12x12x8 cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2438-min_wyzbs5.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2434-min_bxajxz.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2434-min_bxajxz.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/091/IMG_2432-min_pbdwrb.jpg
-    price: "18"
-    name: Cesto Quadrado Telha e Rosê
-    ref: 91
-    type: Cestos
   - size: 13cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204950/Site%20-%20Ateli%C3%AA%20da%20Adri/092/IMG_2526-min_ourweh.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204950/Site%20-%20Ateli%C3%AA%20da%20Adri/092/IMG_2441-min_fcleer.jpg
