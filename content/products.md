@@ -243,21 +243,14 @@ product:
     name: Porta Talheres Tricolor
     ref: 97
     type: Outros
-  - name: Porta Lápis
+  - name: Porta Lápis/Porta Clips
     type: Cestos
-    price: "16"
-    size: 10x13cm
+    price: 16 / 8  os dois por 22,00
+    size: 10x13cm / 9x6 cm
     ref: 95
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2590-min_o9mxsi.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2588-min_xnegy4.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2581-min_bnrcve.jpg
-  - name: Porta Clips
-    type: Cestos
-    price: "8"
-    size: 9x6cm
-    ref: 98
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2581-min_bnrcve.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2585-min_fbimx6.jpg
   - size: 15x9
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2596-min_h04peq.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2603-min_k6uujw.jpg
