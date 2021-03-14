@@ -1,14 +1,5 @@
 ---
 product:
-  - size: 16x16cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1505-min_xrhtxr.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1508-min_lbsduw.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1513-min_okr6b0.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982223/Site%20-%20Ateli%C3%AA%20da%20Adri/005/_MG_1513-min_okr6b0.jpg
-    price: "26"
-    name: RESERVADO Cesto Mostarda
-    ref: 5
-    type: Cestos
   - name: Cesto de Pendurar
     type: Cestos
     price: "20"
@@ -91,15 +82,6 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1154-min_wlt5bs.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1153-min_tjd8ji.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598981903/Site%20-%20Ateli%C3%AA%20da%20Adri/040/_MG_1151-min_pmuhkf.jpg
-  - size: 12x9cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1920-min_cmmwtf.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1923-min_ymkshf.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1924-min_simz9k.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065194/Site%20-%20Ateli%C3%AA%20da%20Adri/053/IMG_1921-min_poqrqe.jpg
-    price: "15"
-    name: RESERVADO Cesto Estampado com Azul
-    ref: 53
-    type: Cestos
   - name: Capa para Caixa de Lenço
     type: Outros
     size: Indisponível para pronta-entrega. Apenas sob encomenda.
@@ -154,23 +136,6 @@ product:
     name: Cesto Listrado Verde e Cinza
     ref: 86
     type: Cestos
-  - name: Cesto Fantasia Tricolor
-    type: Cestos
-    price: "18"
-    size: 14cmx9cm
-    ref: 82
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204947/Site%20-%20Ateli%C3%AA%20da%20Adri/087/IMG_2382-min_nuyscj.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/087/IMG_2381-min_fo2e72.jpg
-  - size: 12,5cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2500-min_wyf0il.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204949/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2389-min_rujmbr.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204946/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2509-min_rted9i.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2387-min_i00xgg.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1612204945/Site%20-%20Ateli%C3%AA%20da%20Adri/088/IMG_2393-min_artsik.jpg
-    price: 5 cada
-    name: Porta Copo/caneca Mostarda
-    ref: 88
-    type: Outros
   - name: Porta Panela Azul M
     type: Outros
     price: "10"
