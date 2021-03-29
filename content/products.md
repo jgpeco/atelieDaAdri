@@ -245,16 +245,6 @@ product:
     name: Cesto Fantasia Creme e Telha
     ref: 116
     type: Cestos
-  - size: 12x7
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423555/Site%20-%20Ateli%C3%AA%20da%20Adri/115/IMG_2818-min_dqzjv0.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423555/Site%20-%20Ateli%C3%AA%20da%20Adri/115/IMG_2819-min_ot0xhq.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/115/IMG_2827-min_hodvbs.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/115/IMG_2823-min_lymap8.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/115/IMG_2820-min_qgjmts.jpg
-    price: "25"
-    name: Cesto Fantasia Telha e Musgo
-    ref: 115
-    type: Cestos
   - size: 15cm de diâmetro
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423555/Site%20-%20Ateli%C3%AA%20da%20Adri/114/IMG_2812-min_g4q6vh.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423554/Site%20-%20Ateli%C3%AA%20da%20Adri/114/IMG_2807-min_krqpdk.jpg
