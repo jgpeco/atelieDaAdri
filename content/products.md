@@ -340,4 +340,12 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915854/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2709-min_yx7ghh.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915855/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2711-min_wugnu9.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915854/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2710-min_hstmp9.jpg
+  - name: Toalha Bordada Rosa
+    type: Outros
+    price: "45"
+    size: lavabo
+    ref: 104
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2672-min_ex5xrq.jpghttps://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2669-min_vukrns.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2674-min_tqadi9.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2672-min_ex5xrq.jpg
 ---
