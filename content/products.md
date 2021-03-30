@@ -126,16 +126,6 @@ product:
     name: Cesto Laranja Tie Dye
     ref: 69
     type: Cestos
-  - size: 15,5x13cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456450/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2293-min_jdtuzu.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2294-min_g5mwvu.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2297-min_xvfjng.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2298-min_e2ceru.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1607456451/Site%20-%20Ateli%C3%AA%20da%20Adri/086/IMG_2295-min_qmniuh.jpg
-    price: "27"
-    name: Cesto Listrado Verde e Cinza
-    ref: 86
-    type: Cestos
   - name: Porta Panela Azul M
     type: Outros
     price: "10"
