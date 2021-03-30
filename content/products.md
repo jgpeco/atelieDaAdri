@@ -228,21 +228,13 @@ product:
     name: Cachepô Telha
     ref: 99
     type: Cestos
-  - name: Cesto Laranja Mesclado
-    type: Cestos
-    price: "12"
-    size: 11x10cm
-    ref: 100
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/100/IMG_2610-min_v28eds.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/100/IMG_2612-min_ftutpd.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952786/Site%20-%20Ateli%C3%AA%20da%20Adri/100/IMG_2613-min_upe0sf.jpg
   - size: 17,5x10
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2832-min_tvjens.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2829-min_c2kqop.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2831-min_dqsth8.jpg
     url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2832-min_tvjens.jpg
     price: "26"
-    name: Cesto Fantasia Creme e Telha
+    name: RESERVADO Cesto Fantasia Creme e Telha
     ref: 116
     type: Cestos
   - size: 15cm de diâmetro
@@ -288,7 +280,7 @@ product:
     name: Cesto Ovo de Páscoa
     ref: 106
     type: Cestos
-  - name: Cesto Verde e Listrado Verde e Azul
+  - name: RESERVADO Cesto Verde e Listrado Verde e Azul
     type: Cestos
     price: "20"
     size: 15x11
