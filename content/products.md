@@ -286,6 +286,42 @@ product:
     url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2662-min_x76ngt.jpg
     price: "45"
     name: Toalha Bordada Rosa
-    ref: 104
+    ref: 102
     type: Outros
+  - size: 10x10cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269417/Site%20-%20Ateli%C3%AA%20da%20Adri/118/IMG_2896-min_pu4kii.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269418/Site%20-%20Ateli%C3%AA%20da%20Adri/118/IMG_2900-min_kssw7i.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269417/Site%20-%20Ateli%C3%AA%20da%20Adri/118/IMG_2899-min_ofbmq0.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269418/Site%20-%20Ateli%C3%AA%20da%20Adri/118/IMG_2898-min_mp93v6.jpg
+    price: "20"
+    name: Cesto Avelã Tie Dye
+    ref: 118
+    type: Cestos
+  - size: 13x9,5cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2904-min_qwxmuv.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2905-min_f1hswc.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2909-min_meevfa.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2907-min_nvxhxt.jpg
+    price: "24"
+    name: Cesto Fantasia Fendi
+    ref: 119
+    type: Cestos
+  - size: 12x7cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/120/IMG_2910-min_gtr8x6.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269416/Site%20-%20Ateli%C3%AA%20da%20Adri/120/IMG_2914-min_ufra2h.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/120/IMG_2911-min_jyo7di.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/120/IMG_2912-min_sxy7x0.jpg
+    price: "15"
+    name: Cesto Verde e Laranja
+    ref: 120
+    type: Cestos
+  - size: 13x10
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/121/IMG_2916-min_qp8glu.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269416/Site%20-%20Ateli%C3%AA%20da%20Adri/121/IMG_2922-min_gubzzs.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269416/Site%20-%20Ateli%C3%AA%20da%20Adri/121/IMG_2924-min_qamen7.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269416/Site%20-%20Ateli%C3%AA%20da%20Adri/121/IMG_2921-min_gz5d8w.jpg
+    price: "32"
+    name: Cesto Tons de Marrom
+    ref: 121
+    type: Cestos
 ---
