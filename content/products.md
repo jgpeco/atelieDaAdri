@@ -278,7 +278,7 @@ product:
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915854/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2709-min_yx7ghh.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915855/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2711-min_wugnu9.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915854/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2710-min_hstmp9.jpg
-  - size: lavabo
+  - size: Lavabo
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2669-min_vukrns.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2668-min_fikpkz.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2672-min_ex5xrq.jpg
@@ -323,5 +323,14 @@ product:
     price: "32"
     name: Cesto Tons de Marrom
     ref: 121
+    type: Cestos
+  - size: 25x8,5cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269417/Site%20-%20Ateli%C3%AA%20da%20Adri/122/IMG_2942-min_ac3cds.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269416/Site%20-%20Ateli%C3%AA%20da%20Adri/122/IMG_2932-min_ygue3a.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269417/Site%20-%20Ateli%C3%AA%20da%20Adri/122/IMG_2935-min_jlb5va.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269417/Site%20-%20Ateli%C3%AA%20da%20Adri/122/IMG_2937-min_jink2p.jpg
+    price: "18"
+    name: Cesto de Listras
+    ref: 122
     type: Cestos
 ---
