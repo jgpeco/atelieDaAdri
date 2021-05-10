@@ -1,13 +1,5 @@
 ---
 product:
-  - name: Cesto de Pendurar
-    type: Cestos
-    price: "20"
-    size: 16x10cm
-    ref: 6
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982219/Site%20-%20Ateli%C3%AA%20da%20Adri/006/_MG_1128-min_etbgte.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982219/Site%20-%20Ateli%C3%AA%20da%20Adri/006/_MG_1129-min_pukj0r.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1598982219/Site%20-%20Ateli%C3%AA%20da%20Adri/006/_MG_1139-min_qdndfv.jpg
   - name: "Cesto Preto Mesclado "
     type: Cestos
     price: "14"
@@ -198,16 +190,6 @@ product:
     name: Porta Talheres Tricolor
     ref: 97
     type: Outros
-  - size: 10x13cm / 9x6 cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2581-min_bnrcve.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2588-min_xnegy4.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2585-min_fbimx6.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2583-min_obah8k.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/098/IMG_2590-min_o9mxsi.jpg
-    price: 16/8 ou os dois por 22,00
-    name: Porta Lápis/Porta Clips
-    ref: 98
-    type: Cestos
   - size: 15x9
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2596-min_h04peq.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2603-min_k6uujw.jpg
@@ -217,15 +199,6 @@ product:
     price: "34"
     name: Cachepô Telha
     ref: 99
-    type: Cestos
-  - size: 17,5x10
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2832-min_tvjens.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2829-min_c2kqop.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2831-min_dqsth8.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423556/Site%20-%20Ateli%C3%AA%20da%20Adri/116/IMG_2832-min_tvjens.jpg
-    price: "26"
-    name: RESERVADO Cesto Fantasia Creme e Telha
-    ref: 116
     type: Cestos
   - size: 15cm de diâmetro
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423555/Site%20-%20Ateli%C3%AA%20da%20Adri/114/IMG_2812-min_g4q6vh.jpg
@@ -270,14 +243,6 @@ product:
     name: Cesto Ovo de Páscoa
     ref: 106
     type: Cestos
-  - name: RESERVADO Cesto Verde e Listrado Verde e Azul
-    type: Cestos
-    price: "20"
-    size: 15x11
-    ref: 105
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915854/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2709-min_yx7ghh.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915855/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2711-min_wugnu9.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615915854/Site%20-%20Ateli%C3%AA%20da%20Adri/105/IMG_2710-min_hstmp9.jpg
   - size: Lavabo
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2669-min_vukrns.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1615221383/Site%20-%20Ateli%C3%AA%20da%20Adri/104/IMG_2668-min_fikpkz.jpg
@@ -296,15 +261,6 @@ product:
     price: "20"
     name: Cesto Avelã Tie Dye
     ref: 118
-    type: Cestos
-  - size: 13x9,5cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2904-min_qwxmuv.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2905-min_f1hswc.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2909-min_meevfa.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/119/IMG_2907-min_nvxhxt.jpg
-    price: "24"
-    name: Cesto Fantasia Fendi
-    ref: 119
     type: Cestos
   - size: 12x7cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1618269415/Site%20-%20Ateli%C3%AA%20da%20Adri/120/IMG_2910-min_gtr8x6.jpg
