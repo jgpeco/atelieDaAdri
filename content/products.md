@@ -90,15 +90,6 @@ product:
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5496-min_g3d1tm.jpg
     url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599065195/Site%20-%20Ateli%C3%AA%20da%20Adri/055/IMG_5498-min_gdinls.jpg
     price: "00"
-  - size: 11,5x11cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1936-min_gcrarw.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1938-min_waxyyp.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1944-min_qdqpsv.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1599516842/Site%20-%20Ateli%C3%AA%20da%20Adri/057/IMG_1939-min_fm0ail.jpg
-    price: "18"
-    name: Cesto Rosa Médio
-    ref: 57
-    type: Cestos
   - size: 15x13cm
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2001-min_pswadw.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1600100121/Site%20-%20Ateli%C3%AA%20da%20Adri/063/IMG_2002-min_fkw2f1.jpg
@@ -108,15 +99,6 @@ product:
     price: "20"
     name: Cesto Cinza Degradê
     ref: 61
-    type: Cestos
-  - size: 16x8cm
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911738/Site%20-%20Ateli%C3%AA%20da%20Adri/069/IMG_2029-min_hmqkxs.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911738/Site%20-%20Ateli%C3%AA%20da%20Adri/069/IMG_2030-min_wfi2t2.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911738/Site%20-%20Ateli%C3%AA%20da%20Adri/069/IMG_2026-min_usgy4h.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1601911737/Site%20-%20Ateli%C3%AA%20da%20Adri/069/IMG_2027-min_xlpj10.jpg
-    price: "25"
-    name: Cesto Laranja Tie Dye
-    ref: 69
     type: Cestos
   - name: Porta Panela Azul M
     type: Outros
@@ -190,16 +172,6 @@ product:
     name: Porta Talheres Tricolor
     ref: 97
     type: Outros
-  - size: 15x9
-    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2596-min_h04peq.jpg
-    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2603-min_k6uujw.jpg
-    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2598-min_lexpx3.jpg
-    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952788/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2600-min_guzrxi.jpg
-    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1613952787/Site%20-%20Ateli%C3%AA%20da%20Adri/099/IMG_2591-min_dsihso.jpg
-    price: "34"
-    name: Cachepô Telha
-    ref: 99
-    type: Cestos
   - size: 10x12
     url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423552/Site%20-%20Ateli%C3%AA%20da%20Adri/111/IMG_2784-min_knkufv.jpg
     url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1616423552/Site%20-%20Ateli%C3%AA%20da%20Adri/111/IMG_2786-min_b7qbn3.jpg
