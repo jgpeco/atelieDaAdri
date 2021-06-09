@@ -262,4 +262,50 @@ product:
     name: Cesto de Listras
     ref: 122
     type: Cestos
+  - size: 14,5x8 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026326/Site%20-%20Ateli%C3%AA%20da%20Adri/127/IMG_3037-min_rqonq8.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026326/Site%20-%20Ateli%C3%AA%20da%20Adri/127/IMG_3034-min_i7jytc.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026326/Site%20-%20Ateli%C3%AA%20da%20Adri/127/IMG_3038-min_xdtoxg.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026326/Site%20-%20Ateli%C3%AA%20da%20Adri/127/IMG_3041-min_j5zqse.jpg
+    price: "16"
+    name: Cesto Laranja Vivo
+    ref: 127
+    type: Cestos
+  - size: 8,5x7cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026326/Site%20-%20Ateli%C3%AA%20da%20Adri/126/IMG_3028-min_g8yssc.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/126/IMG_3025-min_u4xwdl.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/126/IMG_3026-min_ni97wb.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/126/IMG_3027-min_iz3vpv.jpg
+    price: "10"
+    name: Cesto Telha Trançado
+    ref: 126
+    type: Cestos
+  - size: 15x7 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/125/IMG_3013-min_eittkg.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/125/IMG_3015-min_zhdfwi.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/125/IMG_3015-min_zhdfwi.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/125/IMG_3005-min_vi0ko1.jpg
+    url5: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026325/Site%20-%20Ateli%C3%AA%20da%20Adri/125/IMG_3014-min_icpsor.jpg
+    price: "30"
+    name: Cesto Castanha Fantasia
+    ref: 125
+    type: Cestos
+  - size: 15X7,5 cm
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/124/IMG_2998-min_ijkcns.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/124/IMG_2995-min_yih65u.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/124/IMG_2996-min_kcsgkt.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/124/IMG_3002-min_ngwpuh.jpg
+    price: "15"
+    name: Cesto Rosa Pi
+    ref: 124
+    type: Cestos
+  - size: 15x11,5
+    url1: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/123/IMG_2967-min_ssfv1z.jpg
+    url2: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/123/IMG_2969-min_osvk3a.jpg
+    url3: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/123/IMG_2975-min_amv9oe.jpg
+    url4: https://res.cloudinary.com/dnrhfjnef/image/upload/v1623026324/Site%20-%20Ateli%C3%AA%20da%20Adri/123/IMG_2970-min_dvrrnd.jpg
+    price: "28"
+    name: Cesto Bege Rosado com borda
+    ref: 123
+    type: Cestos
 ---
